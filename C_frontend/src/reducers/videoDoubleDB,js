@@ -1,0 +1,20 @@
+import { actionTypes } from "../actions/actionTypes"
+
+
+
+const initialState = {
+    videosDB: [],
+}
+
+export default function(state=initialState, action){
+    switch(action.type){
+        case actionTypes.DOUBLE_DB_VIDEO_GET:
+            return {
+                ...state,
+                videosDB: [...action.payload]
+            }
+
+        default:
+            return state
+    }
+}

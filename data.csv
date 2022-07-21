@@ -1,0 +1,4 @@
+id,category,type,name,extras,sizes_prices,unit_price,quantity,total_price,owner_id,order_no,created_date,created_month,created_time,created_year,owner_name
+90,Beverage,Coffee,Black Coffee,"{""details"": [{""id"": 0, ""name"": ""iced"", ""price"": ""0"", ""default"": ""True""}]}","{""details"": [{""id"": 1, ""name"": ""normal"", ""price"": ""15000"", ""default"": ""True""}]}",15000,4,60000,11,K01,13,2,23:18:30,2022,k2
+91,Beverage,Coffee,White Coffee,"{""details"": [{""id"": 0, ""name"": ""iced"", ""price"": 0, ""default"": ""True""}]}","{""details"": [{""id"": 1, ""name"": ""normal"", ""price"": ""20000"", ""default"": ""True""}]}",20000,4,80000,5,K091,13,2,23:18:30,2022,k1
+id,category,type,name,extras,sizes_prices,unit_price,quantity,total_price,owner_id,order_no,created_date,created_month,created_time,created_year,owner_name
